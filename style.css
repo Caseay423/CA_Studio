@@ -129,6 +129,7 @@ nav{
 }
 
 .home-img img{
+    height: 35vw;
     width: 35vw;
     border-radius: 50%;
 }
